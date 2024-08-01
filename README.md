@@ -1,4 +1,4 @@
-###👋 Hola, soy @Marcosbc05
+### 👋 Hola, soy @Marcosbc05
 
 - 🌱 Estoy estudiando Ingeniería Informática en UAH.
 
