@@ -2,7 +2,7 @@
 
 - 🌱 Estoy estudiando Ingeniería Informática en UAH.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosbc05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
